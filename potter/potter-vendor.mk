@@ -1380,7 +1380,6 @@ PRODUCT_PACKAGES += \
     com.qti.snapdragon.sdk.display \
     DTVPlayer \
     DTVService \
-    com.qualcomm.location \
     ims \
     qcrilmsgtunnel \
     izat.xt.srv \
